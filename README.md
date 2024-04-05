@@ -3,14 +3,6 @@
 
 - 📫 How to reach me **prathameshchavan943@gmail.com**
 
-- ⚡ Fun fact **function makeCoffee() {
-  const coffee = brew('arabica');
-  return coffee.withMilk().withSugar();
-}
-
-// Start the day right
-console.log(makeCoffee());**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prathamesh-chavan-730321273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathamesh-chavan-730321273" height="30" width="40" /></a>
