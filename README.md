@@ -3,9 +3,13 @@
 
 - 📫 How to reach me **prathameshchavan943@gmail.com**
 
-- 📄 Know about my experiences [Resume_Prathamesh_Chavan](Resume_Prathamesh_Chavan)
+- ⚡ Fun fact **function makeCoffee() {
+  const coffee = brew('arabica');
+  return coffee.withMilk().withSugar();
+}
 
-- ⚡ Fun fact **did pri**
+// Start the day right
+console.log(makeCoffee());**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
